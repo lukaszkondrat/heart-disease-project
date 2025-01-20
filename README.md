@@ -1,1 +1,1 @@
-This is a project looking into using various Python-based Machine Learning and Data Science libraries in an attempt to build a Machine Learning model capable of predicting whether or not someone has a heart disease based on some medical attributes.
+This is a project looking into using various Python-based Machine Learning and Data Science libraries in an attempt to build a Machine Learning model capable of predicting whether or not someone has a heart disease (based on some of their medical attributes).
